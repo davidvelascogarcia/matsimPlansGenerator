@@ -1,0 +1,7 @@
+matsimPlansGenerator module
+===========================
+
+.. automodule:: matsimPlansGenerator
+   :members:
+   :undoc-members:
+   :show-inheritance:
